@@ -38,7 +38,7 @@ lo que abrira un editor de texto que permitira agregrar las tareas a automatizar
 */5 * * * * /home/walter/Escritorio/2S2024/SOPES1/so1_actividades_202111718/actividad2/Script.sh nombre_del_parametro
 ```
 
-esto significa que se ejecutara cada 5 segundosdurante todos los dias, meses...etc
+esto significa que se ejecutara cada 5 segundos durante todos los dias, meses...etc
 
 ## Visualizacion Logs
 
