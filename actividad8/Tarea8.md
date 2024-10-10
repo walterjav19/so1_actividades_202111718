@@ -15,7 +15,7 @@ y el despliegue del webserver
 
 ![ext](./images/ext.png)
 
-### 3. Ejecutar el despliegue y el mapeo de puertos
+### 3. Ejecutar el despliegue y la exposicion de puertos
 
 ```bash
 kubectl create deployment nginx --image=nginx
